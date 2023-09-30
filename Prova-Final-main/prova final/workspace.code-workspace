@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "discovery-server"
+		},
+		{
+			"path": "servico"
+		},
+		{
+			"path": "sofa"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		},
+		{
+			"path": "gateway"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
